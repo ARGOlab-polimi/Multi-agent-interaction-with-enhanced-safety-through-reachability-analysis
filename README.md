@@ -5,7 +5,7 @@ This repository contains the full implementation of the a control framework able
 ## 📁 Folder Structure
 
 - It contains the complete implementation of the multi-agent model predictive controller and simulation environment.
-- `Trajectories_video_collection/` – Contains recorded simulations corresponding to the scenarios described in the paper. These videos were generated using the code in the `code/` folder.
+- `Trajectories_video_collection/` – Contains recorded simulations corresponding to the scenarios described in the paper. These videos were generated using the code in the 'main.m'.
 
 ## ▶️ Running the Code
 
